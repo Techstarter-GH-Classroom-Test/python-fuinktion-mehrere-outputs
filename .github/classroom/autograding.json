@@ -3,7 +3,7 @@
       {
         "name": "Test Übung 1",
         "setup": "",
-        "run": "python -m unittest test_exercises.Test.test_exercise_1", 
+        "run": "python -m unittest test_exercises.Test.test_calc_1", 
         "input": "",
         "output": "",
         "comparison": "included",
@@ -13,7 +13,7 @@
       {
         "name": "Test Übung 2",
         "setup": "",
-        "run": "python -m unittest test_exercises.Test.test_exercise_2",
+        "run": "python -m unittest test_exercises.Test.test_calc_2",
         "input": "",
         "output": "",
         "comparison": "included",
